@@ -72,6 +72,7 @@ The analysis helps understand car market trends, pricing patterns, popular fuel 
 
 ## 👩‍💻 Author
  Brindha M
+ 
 **Car Sales Data Analysis Project**
 
 ⭐ If you like this project, give it a star on GitHub!
